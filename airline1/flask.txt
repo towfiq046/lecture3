@@ -1,0 +1,4 @@
+set flask_app=application.py
+
+set FLASK_DEBUG=true
+flask run
